@@ -1,0 +1,6 @@
+this is file b
+second one
+:q
+:wq
+ZZ
+
